@@ -594,6 +594,22 @@
         "title": "CustomUserCSS",
         "version": "1.0.0"
     },
+    "CssStylesheetEditorAce":{
+         "author": "R.Valentin - RIVDESIGN.fr",
+        "download": "https://github.com/rivman/CssStylesheetEditorAce/archive/refs/tags/1.0.0.zip",
+        "compatible_version": ">=1.2.0",
+        "has_hooks": false,
+        "has_overrides": true,
+        "has_schema": false,
+        "homepage": "https://github.com/rivman/CssStylesheetEditorAce",
+        "is_type": "plugin",
+        "last_updated": "2025-08-22",
+        "license": "MIT",
+        "readme": "https://github.com/rivman/CssStylesheetEditorAce/README.md",
+        "remote_install": false,
+        "title": "CssStylesheetEditorAce",
+        "version": "1.0.0"
+    },
     "DashboardTaskSorting": {
         "author": "Tagirijus",
         "compatible_version": ">=1.2.26",
@@ -606,7 +622,7 @@
         "is_type": "plugin",
         "last_updated": "2023-03-17",
         "license": "MIT",
-        "readme": "https://github.com/Tagirijus/DashboardTaskSorting/blob/master/README.md",
+        "readme": "https://github.com/rivman/CssStylesheetEditorAce/blob/master/README.md",
         "remote_install": false,
         "title": "DashboardTaskSorting",
         "version": "1.4.0"
